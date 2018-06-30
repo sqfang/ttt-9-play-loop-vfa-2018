@@ -39,5 +39,6 @@ end
 def play(board)
   count = 0
   until count == 9
-  
+    count += 1
+  end
 end
